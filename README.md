@@ -1,2 +1,2 @@
 # L_clevelandensis_UVMB
-Genome assembly of L. clevelandensis
+The genome assembly of L. clevelandensis is stored in 7.fa.
